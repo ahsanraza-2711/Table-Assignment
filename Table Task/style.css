@@ -1,0 +1,42 @@
+
+.table{
+    text-align: center;
+    width: 800px;
+}
+.head{
+    color:rgb(7, 80, 163);
+    font-size: 30px;
+    
+}
+.date-schedule{
+    background-color: lightslategrey;
+}
+
+.time{
+    background-color: rgb(247, 167, 98);
+}
+.design{
+    background-color: aquamarine;
+}
+.email{
+    background-color: lightgray;
+}
+.lunch{
+    background-color: lightsteelblue;
+}
+.meeting{
+    background-color:steelblue;
+}
+.research{
+    background-color: aqua;
+}
+.editing{
+    background-color:rgb(218, 217, 118);
+}
+.presentation{
+    background-color: rgb(255, 153, 0);
+}
+.review{
+    background-color: gray;
+}
+
